@@ -92,7 +92,8 @@
       "./source"
     ],
     "testRegex": ".jest.js",
-    "verbose": true
+    "verbose": true,
+    "runInBand": true
   },
   "devDependencies": {
     "autoprefixer": "^6.2.3",
